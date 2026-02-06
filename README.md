@@ -22,3 +22,4 @@ This portfolio is intended to showcase my projects, skills, and experience for a
 ## Contact
 - https://www.linkedin.com/in/arooj-saleem/
 - https://github.com/AroojSaleem-995
+- aroojsaleem995@gmail.com
